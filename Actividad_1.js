@@ -1,6 +1,5 @@
 //Crear una variable llamada mes y que tenga asignado por defecto el valor 10.
 
-var mes= 10;
 mes = prompt("Elija un numero del 1-10");
 
 //Verifique si el valor de mes está entre 12 y 2 (12, 1 o 2)
